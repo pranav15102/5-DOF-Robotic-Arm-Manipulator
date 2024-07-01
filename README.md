@@ -13,7 +13,7 @@ cd Robotic-Arm-Dispensing-Task
 2. Install MATLAB, Simulink & Robotics System Toolbox in MATLAB
 # Usage
 1. Launch MATLAB and navigate to the project directory.
-2. Open the Simulink model file 'dispensing_task_model.slx'.
+2. Open the Simulink model file 'DesignManipulatorPathsUsingIKDesignerExample.mlx'.
 3. Start the simulation to see the robotic arm performing the dispensing task.
 4. Use the provided scripts and Simulink model to control the arm and execute the task.
 # Simulation Video
