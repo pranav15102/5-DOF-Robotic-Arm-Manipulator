@@ -8,7 +8,7 @@ The Robotic Arm Manipulator for Dispensing Task is designed to automate the proc
 3. Simulation: Simulated environment using MATLAB and Simulink to test and validate the robot's tasks.
 4. Automation: Automates the task of collecting and applying adhesive strips.
 # Setup
-1. Clone the repository: git clone https://github.com/pranav15102/Robotic-Arm-Dispensing-Task.git
+1. Clone the repository: git clone [https://github.com/pranav15102/Robotic-Arm-Dispensing-Task.git](https://github.com/pranav15102/5-DOF-Robotic-Arm-Manipulator.git)
 cd Robotic-Arm-Dispensing-Task
 2. Install MATLAB, Simulink & Robotics System Toolbox in MATLAB
 # Usage
